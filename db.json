@@ -1,0 +1,274 @@
+{
+    "task": {
+        "id": "task_xvl_415_s2b",
+        "title": "Installing door",
+        "shortdesc": "",
+        "taskbody": {
+            "context": {"id": "context_hg5_3w5_s2b"},
+            "steps": {
+                "id": "steps_ig5_3w5_s2b",
+                "stepsection": [
+                    {
+                        "b": "Preparing door installation",
+                        "fig": {
+                            "id": "fig_gxw_jf5_s2b",
+                            "image": {
+                                "keyref": "interior-carpet",
+                                "id": "image_stp_bg5_s2b"
+                            }
+                        }
+                    },
+                    {"b": "Installing door"},
+                    {
+                        "b": "Installing door handles",
+                        "fig": {
+                            "id": "fig_z2n_fb5_s2b",
+                            "image": {
+                                "keyref": "door-lock-assembly",
+                                "id": "image_b4g_gb5_s2b"
+                            }
+                        }
+                    },
+                    {
+                        "b": "Tightening door hinges",
+                        "fig": {
+                            "id": "fig_hrd_3nh_tgb",
+                            "image": {
+                                "keyref": "installing-door-setting-up-hinges",
+                                "id": "image_vfv_5nh_tgb"
+                            }
+                        }
+                    },
+                    {
+                        "b": "Adjusting door",
+                        "p": {
+                            "#text": "If you want the door to close faster, you can\n                    adjust it.",
+                            "note": "The closing of the door must take at least 1.5 seconds from a\n                        70° angle."
+                        },
+                        "fig": {
+                            "id": "fig_ub4_bxg_4gb",
+                            "image": {
+                                "keyref": "door-adjusting-hinges",
+                                "id": "image_ap5_dxg_4gb"
+                            }
+                        }
+                    },
+                    {
+                        "b": "Adjusting automatic door seal (if needed)",
+                        "fig": {
+                            "id": "fig_j5z_k3x_kfb",
+                            "image": {
+                                "keyref": "installing-door-bottom-seal-v2",
+                                "id": "image_p23_m3x_kfb"
+                            }
+                        }
+                    }
+                ],
+                "step": [
+                    {
+                        "cmd": "Put the carpet in place.",
+                        "info": {
+                            "fig": {
+                                "id": "fig_awf_fd5_s2b",
+                                "image": {
+                                    "keyref": "door-threshold",
+                                    "id": "image_yjx_fd5_s2b"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "cmd": "Install the top threshold with black 5x30 screws (4 pcs).",
+                        "info": [
+                            {
+                                "note": [
+                                    "Guide the right edge of the threshold to the right edge of the door\n                        frame.",
+                                    "The threshold and door frame gaskets are preinstalled. Make sure that the\n                        gaskets do not overlap. If they do, cut the gasket to the right\n                        length."
+                                ]
+                            },
+                            {
+                                "fig": {
+                                    "id": "fig_c4v_pd5_s2b",
+                                    "image": {
+                                        "keyref": "door-doorstep",
+                                        "id": "image_ybv_qd5_s2b"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "cmd": "Remove the plastic. Press the doorstep down and install it with 3x12 Torx\n                    screws (5 pcs) by hand.",
+                        "info": {
+                            "note": [
+                                "Do not overtighten the screws.",
+                                "Install the edge of the doorstep 2 mm on top of the carpet edge.",
+                                "Make sure that the gasket does not overlap the doorstep. If it does, cut\n                        the gasket to the right length."
+                            ]
+                        }
+                    },
+                    {
+                        "cmd": "Separate the hinges in two parts each.",
+                        "info": {
+                            "fig": {
+                                "id": "fig_ss4_1b5_s2b",
+                                "image": {
+                                    "keyref": "door-hinge-assembly",
+                                    "id": "image_sxh_bb5_s2b"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "cmd": "Attach the door leaves to the door with black 5x30 screws (4 pcs each).",
+                        "info": [
+                            {
+                                "note": [
+                                    "The door leaves have two small holes in the side.",
+                                    "Make sure that the door leaves do not overlap the gasket."
+                                ]
+                            },
+                            {
+                                "fig": {
+                                    "id": "fig_jdd_ft3_y2b",
+                                    "image": {
+                                        "keyref": "hinge-to-the-frame",
+                                        "id": "image_nr3_gt3_y2b"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "cmd": "Attach the frame leaves to the door frame with black 5x30 screws (4 pcs each)\n                    and install a 1 mm thick adjustment plate into the lower hinge mounting\n                    hole.",
+                        "info": [
+                            {
+                                "note": [
+                                    "Make sure that the hinge pin is in the frame part of the door leaves.\n                        There are no holes in the door leaves.",
+                                    "Install the adjustment plate under the lower hinge only.",
+                                    "Make sure that the gasket is not squashed between the hinge and the door\n                        frame."
+                                ]
+                            },
+                            {
+                                "fig": {
+                                    "id": "fig_vhw_4f5_s2b",
+                                    "image": {
+                                        "keyref": "attaching-door-to-door-frame",
+                                        "id": "image_gv1_qf5_s2b"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "cmd": "Lift the door in place and guide both hinges in place.",
+                        "info": {
+                            "note": [
+                                {
+                                    "type": "caution",
+                                    "#text": "Lifting requires two persons. Make sure that the lower\n                        hinge falls into place."
+                                },
+                                "Set a mat on the ground to protect the door."
+                            ]
+                        }
+                    },
+                    {"cmd": "Push the handle with the spindle and rubber gasket in place on the outside of\n                    the door."},
+                    {
+                        "cmd": "Push the handle in place on the inside of the door. Tighten the handles with\n                    M5x43 screws (2 pcs).",
+                        "info": [
+                            {"note": "Do not overtighten."},
+                            {
+                                "fig": {
+                                    "id": "fig_etm_cwg_4gb",
+                                    "image": {
+                                        "keyref": "door-insert-lock-screw",
+                                        "id": "image_t53_dwg_4gb"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "cmd": "Place and tighten the screw of the inside handle.",
+                        "info": {
+                            "note": [
+                                "Make sure that the screw holes and the threads of the handles are face to\n                        face.",
+                                "Make sure that the set screw pierces the spindle. After this, retighten\n                        the screw. Do not overtighten, or the handle does not return to\n                        position."
+                            ]
+                        }
+                    },
+                    {
+                        "cmd": "Before the adjustments, test the door and lift it 3 mm at maximum, if it\n                    catches on the doorstep.",
+                        "substeps": {
+                            "id": "substeps_lzm_h1h_4gb",
+                            "substep": [
+                                {"cmd": "Turn the bottom screw of the top hinge clockwise with a hex key."},
+                                {"cmd": "Adjust the bottom hinge to the same level as the top hinge."}
+                            ]
+                        },
+                        "info": {
+                            "fig": {
+                                "id": "fig_r4m_c3x_kfb",
+                                "image": {
+                                    "keyref": "door-setting-up-hinges",
+                                    "id": "image_zms_jwg_4gb"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "cmd": "Make sure that the door closes correctly and smoothly.",
+                        "info": {"note": "Keep the door closed while tightening the spring."}
+                    },
+                    {
+                        "cmd": "Tighten the spring with the 5 mm hex key so that you feel resistance.",
+                        "info": "The key bounds back when it encounters resistance. Test the resistance before\n                    adjustment."
+                    },
+                    {"cmd": "Tighten a ¼ turn."},
+                    {"cmd": "To hold in position, hold the hex key on the hinge."},
+                    {
+                        "cmd": "Lock the spring in place with an M5x6 screw in the hole on the right-hand\n                    side.",
+                        "info": {
+                            "fig": {
+                                "id": "fig_jbt_y4h_tgb",
+                                "image": {
+                                    "keyref": "installing-door-closing",
+                                    "id": "image_cmc_y4h_tgb"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "cmd": "Test the door.",
+                        "info": "The closing of the door must take at least 1.5 seconds from a 70°\n                    angle."
+                    },
+                    {"cmd": "Insert the 5 mm hex key into the top of the hinge."},
+                    {"cmd": "Hold the hex key in place and remove the M5x6 screw."},
+                    {"cmd": "Turn the hex key a 1/4 turn and hold in place."},
+                    {"cmd": "Insert the lock pin in the hole on the left-hand side of the hinge close to the\n                    door frame."},
+                    {"cmd": "Remove the hex key and install the M5x6 screw."},
+                    {"cmd": "Remove the locking pin and test the door."},
+                    {
+                        "cmd": "Repeat as needed.",
+                        "info": {
+                            "note": [
+                                "The lock pin holds the spring in place so it does not unwind and\n                        break.",
+                                "You can tighten the spring 6 x ¼ turns at the maximum after feeling\n                        resistance."
+                            ]
+                        }
+                    },
+                    {"cmd": "Pull out the adjustment stick on the lower inside frame of the door."},
+                    {"cmd": "Adjust the screw on the stick."},
+                    {
+                        "cmd": "Push the stick back in place with a snap.",
+                        "info": "The further the stick comes out of the door frame, the lower the door seal\n                    descends. The seal descends automatically when you close the door."
+                    },
+                    {
+                        "cmd": "Check with a flashlight that there is no gap under the door.",
+                        "info": "If the light shines through from under the door, readjust the door\n                    seal."
+                    }
+                ]
+            }
+        }
+    }
+}
